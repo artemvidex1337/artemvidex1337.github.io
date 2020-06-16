@@ -1,0 +1,13 @@
+.carousel-item{
+    height: 500px;
+    font-family: 'Lobster', cursive;
+}
+.carousel-caption{
+   color:blue ; 
+   background-color: rgba(248, 248, 248, 0.767); 
+}
+nav{
+    background-color: chartreuse;
+    font-size: 1.3rem;
+    font-family: 'Lobster', cursive;
+}
